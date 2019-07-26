@@ -38,8 +38,6 @@ The above commands have been successful in being tested and have been allocated 
 Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands.
 
 ##*Line Commands in Git Bash for Naan Factory 2*
-Step 1 - Know the access point of the drive
-
 - Step 1 - Know the drivepoint access which you have
 -      $ pwd -->
        /c/Users/AHirani
@@ -68,4 +66,10 @@ Step 1 - Know the access point of the drive
 
 And there you have it. You have successfully started your Naan Factory 2 and are on your way to understanding Python and Git as well as committing savepoints into a blank Git Repository!
        
+Please note: **the README.md (this file) needs to also be committed**
 
+- Step 8: Add and commit the README.md file
+-       $ git add README.md
+        $ git commit -m "README.md compiled and completed
+        $ git add README.md
+        $ git commit -m "Added README.md in commit under Git
